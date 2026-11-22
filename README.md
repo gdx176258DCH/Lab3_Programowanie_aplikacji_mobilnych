@@ -1,6 +1,6 @@
 # TaskFlow — zadanie 5
 
-Projekt z laboratorium nawigacji w Jetpack Compose.
+Projekt z laboratorium nawigacji w Jetpack Compose. Testowany na faktycznym urzadzeniu samsung-SM-A236B.
 
 ## Uruchomienie
 
